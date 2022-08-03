@@ -6,4 +6,4 @@
 
 ## Detalles:
 
-> Ejercicios "Custom Counter" del curso Udemy, "Flutter: Tu guía completa de desarrollo para IOS y Android" del profesor Fernando Herrera.
+> Ejercicio "Custom Counter" del curso Udemy, "Flutter: Tu guía completa de desarrollo para IOS y Android" del profesor Fernando Herrera.
